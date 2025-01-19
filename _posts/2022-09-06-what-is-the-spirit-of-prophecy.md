@@ -264,9 +264,7 @@ Footnotes:
 [^5]: Rodney J. Decker, _Reading Koine Greek: An Introduction and Integrated Workbook_ (Baker Academic, 2014), p. xxiii.
 [^6]: All Greek scripture quotations are from the Tyndale House Greek New Testament, accessed via [https://www.biblegateway.com/versions/Tyndale-House-Greek-New-Testament/](https://www.biblegateway.com/versions/Tyndale-House-Greek-New-Testament/).
 [^7]: Decker, _Reading Koine Greek_, p. 240–241.
-[^8]: Gerhard Pfandl, “The Testimony of Jesus”, 
-​[https://www.ministrymagazine.org/archive/2016/10/The-testimony-of-Jesus](https://www.ministrymagazine.org/archive/2016/10/The-testimony-of-Jesus). Accessed August 13, 2022.
-
+[^8]: Gerhard Pfandl, “The Testimony of Jesus”, ​[https://www.ministrymagazine.org/archive/2016/10/The-testimony-of-Jesus](https://www.ministrymagazine.org/archive/2016/10/The-testimony-of-Jesus). Accessed August 13, 2022.
 [^9]: For example, when discussing what it means to have the testimony of Jesus, he asserts that “the Greek word echo is never used in the sense ‘to bear a witness.’” The basic meaning of ἔχω (echo) is to “have” something, but I see no reason to claim that “to have a testimony” cannot mean “to bear a testimony”; contextually, that meaning fits plausibly in Revelation 6:11 and even more so in John 5:36.
 [^10]: _Andrews Bible Commentary_ (Andrews University Press, 2022), p. 1938.
 [^11]: If “testimony of Jesus” and “revelation of Jesus” are two ways of saying the same thing, that makes seven occurrences total. This may be a coincidence, but if so, an interesting one. 
