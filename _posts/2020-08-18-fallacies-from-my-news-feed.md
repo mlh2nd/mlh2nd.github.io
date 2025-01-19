@@ -1,6 +1,7 @@
 ---
 layout: post
 author: michael
+title: Fallacies from My News Feed
 ---
 This post was originally published on the author's personal Facebook page.
 

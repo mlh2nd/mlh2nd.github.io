@@ -1,6 +1,7 @@
 ---
 layout: post
 author: michael
+title: Motivation and Math Class
 ---
 "Someone told me there's a math problem that if you solve it, you'll get a million dollars. Is that true?"
 
