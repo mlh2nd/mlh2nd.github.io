@@ -4,6 +4,10 @@ author: michael
 title: "Beyond Finances, Part 2: Stewards in Biblical History"
 ---
 
+[Part 1](/2023/03/17/beyond-finances-part-1-the-scope-of-biblical-stewardship.html)
+[Part 3](/2023/04/22/beyond-finances-part-3-steward-of-stewards.html)
+[Part 4](/2023/07/04/beyond-finances-part-4-stewards-of-the-mysteries-of-god.html)
+
 When Jesus and the New Testament authors discuss stewardship as a spiritual concept, they are making an analogy from the work of literal human stewards. In order to understand the significance of this metaphor, it will help to review what stewards actually do. This post will look at several examples of stewards throughout the Bible. This survey from Abraham to Paul covers a vast stretch of time, encompassing many cultural, political, and economic upheavals. But while the details of a steward’s role may have adapted to different contexts, we will observe several common themes that remain true throughout ancient history.
 
 It will be helpful to keep in mind the meaning of the modern English word steward. Here’s the full definition of the noun from [Merriam-Webster](https://www.merriam-webster.com/dictionary/steward):
@@ -98,6 +102,10 @@ From all these examples of stewards, both good and bad, we can draw several obse
 * Some stewards served for life, but this was not guaranteed; a steward could be dismissed—and suddenly—if found to be unfaithful.
 
 Attentive readers may have already noticed a key phrase in one of these stories that Jesus later uses to describe His own work. Part 3 of this series will explore that connection and the concept of stewardship in Jesus’ ministry and teachings.
+
+[Part 1](/2023/03/17/beyond-finances-part-1-the-scope-of-biblical-stewardship.html)
+[Part 3](/2023/04/22/beyond-finances-part-3-steward-of-stewards.html)
+[Part 4](/2023/07/04/beyond-finances-part-4-stewards-of-the-mysteries-of-god.html)
 
 ***
 

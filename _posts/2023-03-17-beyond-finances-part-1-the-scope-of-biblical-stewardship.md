@@ -4,6 +4,10 @@ author: michael
 title: "Beyond Finances, Part 1: The Scope of Biblical Stewardship"
 ---
 
+[Part 2](/2023/03/26/beyond-finances-part-2-stewards-in-biblical-history.html)
+[Part 3](/2023/04/22/beyond-finances-part-3-steward-of-stewards.html)
+[Part 4](/2023/07/04/beyond-finances-part-4-stewards-of-the-mysteries-of-god.html)
+
 Most lifelong Christians have probably encountered numerous sermons, articles, and Bible lessons about stewardship. I know I have. And based on the content of most such material, I came to associate the term stewardship with money. Stewardship seemed to be primarily about recognizing that our money was really God’s money and applying Christian principles to managing it. This was typically discussed in terms of budgeting, not wasting money, staying out of debt, giving tithes and offerings to the church, and estate planning.
 
 All of these are good things! Biblical principles should inform every aspect of our lives, including money management. But is this really the essence of Christian stewardship? Some expand it beyond money to talk about management of other resources, such as in the official Adventist statement of [Fundamental Belief #21](https://www.adventist.org/stewardship/):
@@ -36,3 +40,7 @@ One often-cited verse does use it: 1 Corinthians 4:2. “Moreover, it is require
 As we will see, this is not the only passage that links Christian stewardship to something far beyond material possessions. Other texts speak of stewarding the gospel, the plan of salvation, and the grace of God. Jesus even refers to Himself with language indicative of a stewardship role. At the most fundamental level, Christian stewardship is not about money; it is about the eternal riches of God.
 
 This series will attempt to refocus the discussion of Christian stewardship by examining passages that explicitly discuss it. Part 2 will look at several biblical examples of literal stewards of earthly estates, with the goal of understanding the scope of a steward’s role in the ancient world. Part 3 will show how Jesus refers to Himself as a steward and extract theological principles of stewardship from His teachings. Part 4 will trace how Paul and Peter apply those principles to our role as stewards of the things of God, and propose a definition of Christian stewardship based on biblical usage.
+
+[Part 2](/2023/03/26/beyond-finances-part-2-stewards-in-biblical-history.html)
+[Part 3](/2023/04/22/beyond-finances-part-3-steward-of-stewards.html)
+[Part 4](/2023/07/04/beyond-finances-part-4-stewards-of-the-mysteries-of-god.html)
