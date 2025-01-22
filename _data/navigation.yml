@@ -4,5 +4,13 @@
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: Music
+  link: /music.html
+- name: Sermons
+  link: /sermons.html
+- name: Projects
+  link: /projects.html
+- name: Contact
+  link: /contact.html
 #- name: Staff
 #  link: /staff.html
