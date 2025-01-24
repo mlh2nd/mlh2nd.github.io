@@ -4,7 +4,7 @@ title: Projects
 ---
 # My projects
 
-This page is intended as a catchall for projects I want to share but don't have a separate category for.
+This page is intended as a catchall for projects I want to share but don't have a separate category for. You can also see some of my projects on [Github](https://github.com/mlh2nd).
 
 ## Automated handwash station
 
