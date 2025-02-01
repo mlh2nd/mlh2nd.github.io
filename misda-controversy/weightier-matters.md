@@ -4,7 +4,7 @@ author: michael
 title: "Weightier Matters: What Are the Real Issues?"
 ---
 
-[Back to MISDA Controversy main page](/misda-controversy.html)
+[Back to MISDA Controversy main page](/misda-controversy)
 
 In early December 2024, the Michigan Conference removed Ron Kelly from his position as Senior Pastor of the Village Seventh-day Adventist Church. Since then, much of the discourse in the conference has focused on Kelly himself: some attacking him, some defending him, many seeking his reinstatement as their all-important goal.
 
@@ -47,4 +47,4 @@ Jesus drew a sharp distinction between the way the world works and the way His c
 
 It is not enough for the church to abide by the standards of secular businesses and governments. Its standard is not merely higher, but of an altogether different quality. Nor should the church seek approval from the world at the expense of its mission. Rather, it must remain an entity separate from, independent of, and wholly dissimilar to the kingdoms of this world. 
 
-[Back to MISDA Controversy main page](/misda-controversy.html)
+[Back to MISDA Controversy main page](/misda-controversy)
