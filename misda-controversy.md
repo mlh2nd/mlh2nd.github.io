@@ -11,3 +11,15 @@ Clicking a heading below will take you to the full entry.
 
 ## [Weightier Matters: What Are the Real Issues?](/misda-controversy/weightier-matters)
 At its root, this conflict is not about Ron Kelly, Conrad Vine, or even tithepaying. It is about how Jesus intended His church to operate.
+
+## [The Church's Vital Mission](/misda-controversy/the-church's-vital-mission)
+An open letter to the Michigan Conference Executive Officers.
+
+## [Check Your Sources](/misda-controversy/check-your-sources)
+A reminder from my sister, Abigail, about media bias.
+
+## ["He's Banned"](/misda-controversy/he's-banned)
+A poem by my sister.
+
+## [Offender for a Word: Is Conrad Vine a Heretic?](/misda-controversy/offender-for-a-word)
+Examining accusations that Conrad Vine has preached false doctrine.

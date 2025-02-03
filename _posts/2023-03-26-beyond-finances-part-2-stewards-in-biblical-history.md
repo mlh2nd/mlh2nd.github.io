@@ -2,6 +2,7 @@
 layout: post
 author: michael
 title: "Beyond Finances, Part 2: Stewards in Biblical History"
+excerpt: When Jesus and the New Testament authors discuss stewardship as a spiritual concept, they are making an analogy from the work of literal human stewards. In order to understand the significance of this metaphor, it will help to review what stewards actually do.
 ---
 
 [Part 1](/2023/03/17/beyond-finances-part-1-the-scope-of-biblical-stewardship.html)

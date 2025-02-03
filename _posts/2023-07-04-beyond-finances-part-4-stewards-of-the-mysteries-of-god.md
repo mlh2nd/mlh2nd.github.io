@@ -2,6 +2,7 @@
 layout: post
 author: michael
 title: "Beyond Finances, Part 4: Stewards of the Mysteries of God"
+excerpt: In Part 3 we saw how Jesus uses the language of stewardship for both Himself and the people He entrusts with spiritual leadership. He is the Chief Steward, opening the door of salvation. We are His understewards, distributing spiritual food by proclaiming the Word of God. Paul picks up this motif in his letters, eloquently describing and synthesizing both roles.
 ---
 
 [Part 1](/2023/03/17/beyond-finances-part-1-the-scope-of-biblical-stewardship.html)

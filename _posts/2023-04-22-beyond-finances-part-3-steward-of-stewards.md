@@ -2,6 +2,7 @@
 layout: post
 author: michael
 title: "Beyond Finances, Part 3: Steward of Stewards"
+excerpt: The King of Kings is also the royal steward over His own household and kingdom.
 ---
 
 [Part 1](/2023/03/17/beyond-finances-part-1-the-scope-of-biblical-stewardship.html)

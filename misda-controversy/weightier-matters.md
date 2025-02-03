@@ -2,6 +2,7 @@
 layout: post
 author: michael
 title: "Weightier Matters: What Are the Real Issues?"
+date: 2025/01/31
 ---
 
 [Back to MISDA Controversy main page](/misda-controversy)
@@ -15,6 +16,7 @@ While the conference's treatment of Vine and Kelly needs to be addressed, it is 
 # Primary Issues
 The primary issue at stake in the current controversy is this: _What kind of church are we?_ Several topics relate directly to this issue, and may be considered primary issues alongside it:
 
+* What is the church?
 * What is the mission of the church?
 * What does liberty of conscience mean and how should the church protect it?
 * What is the purpose of the church organization and leadership?
@@ -43,7 +45,7 @@ What kind of church are we? What kind of church *should* we be? Jesus had this t
 
 >The kings of the Gentiles domineer over them; and those who have authority over them are called ‘Benefactors.’ But it is not this way for you; rather, the one who is the greatest among you must become like the youngest, and the leader like the servant. For who is greater, the one who reclines at the table or the one who serves? Is it not the one who reclines at the table? But I am among you as the one who serves. (Luke 22:25–27, NASB)
 
-Jesus drew a sharp distinction between the way the world works and the way His church should operate. Power struggles and political aspirations, coercion and domineering, top-down enforcement of hierarchical control—all of these are foreign to the gospel of Jesus Christ. They must likewise be foreign to any church claiming Christ as its head. 
+Jesus drew a sharp distinction between the way the world works and the way His church should operate. Power struggles and political aspirations, coercion and domineering, top-down enforcement of hierarchical control—all of these are foreign to the way of Jesus Christ. They must likewise be foreign to any church claiming Christ as its head. 
 
 It is not enough for the church to abide by the standards of secular businesses and governments. Its standard is not merely higher, but of an altogether different quality. Nor should the church seek approval from the world at the expense of its mission. Rather, it must remain an entity separate from, independent of, and wholly dissimilar to the kingdoms of this world. 
 

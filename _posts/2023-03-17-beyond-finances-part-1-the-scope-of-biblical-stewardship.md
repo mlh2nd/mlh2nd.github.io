@@ -2,6 +2,8 @@
 layout: post
 author: michael
 title: "Beyond Finances, Part 1: The Scope of Biblical Stewardship"
+excerpt: At the most fundamental level, Christian stewardship is not about money; it is about the eternal riches of God.
+
 ---
 
 [Part 2](/2023/03/26/beyond-finances-part-2-stewards-in-biblical-history.html)
