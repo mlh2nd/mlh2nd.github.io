@@ -68,7 +68,7 @@ Arguments based on these or other distortions of what he said may be ignored.
 I have my own reservations about his plan as described. But remember, the question at hand is not whether what he said is a *bad idea*, or even contrary to *Adventist tradition*, but whether it rises to the level of *false doctrine*.  
 
 ## Tithing
-_An aside for clarity: I myself continue to pay tithe through my local church in the Michigan Conference, even though I disagree with the conference's recent actions. I believe this should be the default channel for tithepaying, and I do not think a threshold has been reached to do otherwise. Current controversy aside, I also believe the Michigan Conference has done and continues to do work that advances the spread of the gospel. At the same time, for the reasons outlined below, I do not see enough biblical evidence to say that those who chose to send tithes to other portions of the Lord's vineyard have apostatized._
+_An aside for clarity: I myself continue to pay tithe through my local church in the Michigan Conference, even though I disagree with the conference's recent actions. I believe this should be the default channel for tithepaying, and I do not think a threshold has been reached to do otherwise. Current controversy aside, I also believe the Michigan Conference has done and continues to do work that advances the spread of the gospel. At the same time, for the reasons outlined below, I do not see enough biblical evidence to say that those who choose to send tithes to other portions of the Lord's vineyard have apostatized._
 
 The Fundamental Beliefs mention tithe only once, in belief #21, Stewardship.
 
@@ -112,7 +112,7 @@ Where, then, is the modern "storehouse"? This question is essential to an unders
 
 In the [final charge](https://www.youtube.com/watch?v=2_z2xPria38&ab_channel=GYC) at GYC 2024, Pastor Shane Anderson traced the history of the pastoral office in Adventism. Speaking of the early Adventists and why they did not have settled local pastors, he noted:
 
->They found that in the Old Testament there was a philosophy called come here "Come here!" in other words, Israel, God's chosen people, were to be lights to the Gentiles. They were to live out the kingdom of God in such a way that that the Gentiles would be drawn to them.  
+>They found that in the Old Testament there was a philosophy called "Come here!" In other words, Israel, God's chosen people, were to be lights to the Gentiles. They were to live out the kingdom of God in such a way that that the Gentiles would be drawn to them.  
 >(48:38)
 >
 >[...]
@@ -196,7 +196,7 @@ Note the nuance here. She did not think redirecting tithe outside of established
 >
 >([Letter 96, 1911](https://m.egwwritings.org/en/book/14075.11073001#11073001))
 
-The people sending White tithe money were not leaving its use up to their own private judgment. They did not have a "para-church organization" to direct it, but they did have a divinely appointed messenger whom they trusted to allocate it faithfully. 
+The people sending White tithe money were not leaving its use up to their own private judgment. They did not have a "para-church organization" to direct it, but they did have a divinely appointed messenger whom they trusted to allocate it faithfully. When Howard faced a similar situation, I would not say that his response was wrong, but he also would not have erred had he collected the money and looked for faithful workers who needed support.
 
 White participated in "redistribution" of tithe, but always encouraged giving through the local church and conference as "a better way" that should be the general rule. It is with this background that her other statements on tithing, including those shared in Howard's video, should be understood. 
 
