@@ -6,6 +6,8 @@ date: 2024/09/26
 ---
 [Back to MISDA Controversy main page](/misda-controversy)
 
+---
+
 “He's banned,” they said,  
 “For he spoke against the church.”  
 Confused, I clicked and read,  

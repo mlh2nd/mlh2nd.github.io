@@ -1,10 +1,12 @@
 ---
 layout: post
 author: michael
-date: 2025/02/01
+date: 2025/02/04
 title: "Offender for a Word: Is Conrad Vine a Heretic?"
 ---
 [Back to MISDA Controversy main page](/misda-controversy)
+
+---
 
 The [letter](https://www.lakeunionherald.org/archive/articles/adventist-frontier-missions-president-banned-from-michigan-pulpits) banning Conrad Vine from Michigan Conference pulpits, signed by conference president Jim Micheff, included this paragraph as justification:
 
@@ -294,5 +296,7 @@ More than once I have thought of David's appeal to King Saul:
 David knew that God was present even beyond the borders of Israel, and Conrad knows that God is faithful despite the failings of human leadership. But David appealed to God's appointed leader to consider the natural effect toward which his actions tended: Saul behaved as one who wanted to drive David away from God, not bring him closer.
 
 I ask the Michigan Conference leadership to consider the effect of their actions, both on the unity and mission of the church and on the faith of the individuals entrusted to their care. I urge them to act as faithful shepherds, who do not desire to see members of the flock fall to the earth away from the presence of the LORD.
+
+---
 
 [Back to MISDA Controversy main page](/misda-controversy)
