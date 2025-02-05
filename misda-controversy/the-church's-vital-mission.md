@@ -6,6 +6,8 @@ title: The Church's Vital Mission
 ---
 [Back to MISDA Controversy main page](/misda-controversy)
 
+---
+
 _This is a lightly edited version of a letter I sent to the Michigan Conference Executive Officers the week Pastor Kelly was removed from his position. I have removed some sensitive details, but am sharing the rest here for others to see._
 
 Dear Michigan Conference Leadership,
@@ -36,5 +38,7 @@ Sincerely,
 
 Michael Hess II  
 Member of Mount Pleasant SDA Church
+
+---
 
 [Back to MISDA Controversy main page](/misda-controversy)

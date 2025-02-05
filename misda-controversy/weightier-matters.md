@@ -7,6 +7,8 @@ date: 2025/01/31
 
 [Back to MISDA Controversy main page](/misda-controversy)
 
+---
+
 In early December 2024, the Michigan Conference removed Ron Kelly from his position as Senior Pastor of the Village Seventh-day Adventist Church. Since then, much of the discourse in the conference has focused on Kelly himself: some attacking him, some defending him, many seeking his reinstatement as their all-important goal.
 
 Before his removal, and to a lesser extent afterward, similar focus was placed on Conrad Vine. Along the way there have been conversations about vaccines, tithing, and the ins and outs of the _Church Manual_.
@@ -48,5 +50,7 @@ What kind of church are we? What kind of church *should* we be? Jesus had this t
 Jesus drew a sharp distinction between the way the world works and the way His church should operate. Power struggles and political aspirations, coercion and domineering, top-down enforcement of hierarchical control—all of these are foreign to the way of Jesus Christ. They must likewise be foreign to any church claiming Christ as its head. 
 
 It is not enough for the church to abide by the standards of secular businesses and governments. Its standard is not merely higher, but of an altogether different quality. Nor should the church seek approval from the world at the expense of its mission. Rather, it must remain an entity separate from, independent of, and wholly dissimilar to the kingdoms of this world. 
+
+---
 
 [Back to MISDA Controversy main page](/misda-controversy)
