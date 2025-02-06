@@ -36,7 +36,3 @@ A poem by my sister.
 ## [Offender for a Word: Is Conrad Vine a Heretic?](/misda-controversy/offender-for-a-word)
 Examining accusations that Conrad Vine has preached false doctrine.
 
----
-
-## [Are We Still of Any Use?](/misda-controversy/are-we-still-of-any-use)
-A question from one of last century's warriors for truth and justice.
