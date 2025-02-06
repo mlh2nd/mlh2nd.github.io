@@ -15,7 +15,7 @@ A hymn based on the message of Hebrews 3 and 4. [Download PDF](/assets/files/mus
 
 A 3-axis CNC machine is also a potential 3-voice choir. I wrote a Python script to convert musicxml files into machine code. The first verse in the video is adapted from a hymnal arrangement, and the second verse is an original arrangement I wrote to better showcase the machine's polyphonic capabilities.
 
-[Click here to download the Python script](/assets/files/music/xml2cnc.py) (may require machine-specific tweaking). 
+[See the Python code on GitHub](https://github.com/mlh2nd/musicxml-to-cnc) (may require machine-specific tweaking). 
 
 <video src="/assets/files/music/hark_on_cnc.mp4" height=400 controls></video>
 

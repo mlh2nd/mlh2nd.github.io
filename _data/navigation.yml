@@ -1,16 +1,18 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: /about
 - name: Blog
-  link: /blog.html
+  link: /blog
 - name: Music
-  link: /music.html
+  link: /music
 - name: Sermons
-  link: /sermons.html
+  link: /sermons
 - name: Projects
-  link: /projects.html
+  link: /projects
+- name: MISDA Controversy
+  link: /misda-controversy
 - name: Contact
-  link: /contact.html
+  link: /contact
 #- name: Staff
 #  link: /staff.html
