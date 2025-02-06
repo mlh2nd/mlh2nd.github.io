@@ -207,6 +207,9 @@ To be consistent with Ellen White's counsel and example, then, the worst that co
 
 In summary, then, the accusations against Vine of false doctrine regarding tithing do not meet the test of the Bible, of the Fundamental Beliefs, or of Ellen White's writings. Vine's critics may still have legitimate points of disagreement, but they should dial back the accusations of heresy.
 
+**Added 2025/02/06**  
+Incidentally, a North American ministry has already been functioning in a way quite similar to what Vine described a para-church organization would do. For years, many Californian Adventists dissatisfied with their local conferences have sent tithe to [Amazing Facts](https://www.amazingfacts.org/), an independent ministry headquartered in California. Amazing facts sends the tithe money to a conference deemed faithful—which happens to the the Michigan Conference—which then uses it to pay the salaries of Pastors Doug Batchelor and Jëan Ross. This arrangement is well-known within the conference, and conference administrators have confirmed it in conversations members have had with them. If the Michigan Conference truly has a principled stance against the reallocation of tithe through a para-church ministry, they should stop participating in it. If, on the other hand, they see no problem with it, they should stop citing the tithe issue in their attacks on Vine and acknowledge their true motivations.
+
 ## The Remnant
 In the next section of his video, Howard argues that there will never come a time such as Vine described, because the remnant church will carry through to the end. He cites a passage from Ellen White's writings that many have quoted throughout this debate:
 
