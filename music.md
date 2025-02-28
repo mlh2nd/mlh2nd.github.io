@@ -7,6 +7,21 @@ title: Music
 
 I began piano and violin lessons at age 12 and studied for about five years. During and since that time I have worked as a church pianist and have played at various events. During my time in the Philippines, the dearth of pianos prompted me to take up guitar, which I now play for fun and occasionally in public. While not a prolific composer, I have written a few songs over the years, a selection of which appear on this page. Feel free to download, use, and share anything on this page.
 
+## New stanza for "How Deep the Father's Love for Us"
+
+Stuart Townend's original song is a meditative reflection on God's love as expressed through Jesus' sacrifice on the cross. This new verse extends that meditation to the work that sacrifice made possible: "He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption" (Hebrews 9:12, ESV). See the rest of Hebrews for more about Jesus' role as our great High Priest.
+
+Feel free to copy, use, and share this new verse in any way you'd like. I pray the reminder of Christ's continuing work in our behalf, like that of his finished and perfect sacrifice, will encourage those who sing it.
+
+>Our great High Priest now serves above  
+>In heaven's holy places,  
+>His right secured by His own blood   
+>To cleanse from conflict's traces.  
+>How far the reach of Jesus' blood—   
+>To uttermost salvation!   
+>My Intercessor ever lives,  
+>And I'm His new creation.  
+
 ## "The Rest That Remains"
 
 A hymn based on the message of Hebrews 3 and 4. [Download PDF](/assets/files/music/the_rest_that_remains.pdf)
