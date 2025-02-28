@@ -9,7 +9,7 @@ I began piano and violin lessons at age 12 and studied for about five years. Dur
 
 ## New stanza for "How Deep the Father's Love for Us"
 
-Stuart Townend's [original song](https://www.stuarttownend.co.uk/song/how-deep-the-fathers-love-for-us/) is a meditative reflection on God's love as expressed through Jesus' sacrifice on the cross. This new verse extends that meditation to the work that sacrifice made possible: "He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption" (Hebrews 9:12, ESV). See the rest of Hebrews for more about Jesus' role as our great High Priest.
+[Stuart Townend's original song](https://www.stuarttownend.co.uk/song/how-deep-the-fathers-love-for-us/) is a meditative reflection on God's love as expressed through Jesus' sacrifice on the cross. This new verse extends that meditation to the work that sacrifice made possible: "He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption" (Hebrews 9:12, ESV). See the rest of Hebrews for more about Jesus' role as our great High Priest.
 
 Feel free to copy, use, and share this new verse in any way you'd like. I pray the reminder of Christ's continuing work in our behalf, like that of his finished and perfect sacrifice, will encourage those who sing it.
 
@@ -24,7 +24,7 @@ Feel free to copy, use, and share this new verse in any way you'd like. I pray t
 
 ## "The Rest That Remains"
 
-A hymn based on the message of Hebrews 3 and 4. [Download PDF](/assets/files/music/the_rest_that_remains.pdf)
+A hymn based on the message of Hebrews 3 and 4. [Download PDF]("/assets/files/music/The Rest That Remains.pdf")
 
 ## "Hark! The Herald Angels Sing"—CNC Performance
 
