@@ -24,7 +24,7 @@ Feel free to copy, use, and share this new verse in any way you'd like. I pray t
 
 ## "The Rest That Remains"
 
-A hymn based on the message of Hebrews 3 and 4. [Download PDF](/assets/files/music/The_Rest_That_Remains.pdf)
+A hymn based on the message of Hebrews 3 and 4. [Download PDF](/assets/files/music/the_rest_that_remains.pdf)
 
 ## "Hark! The Herald Angels Sing"—CNC Performance
 
