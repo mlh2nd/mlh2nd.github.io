@@ -9,11 +9,11 @@ I attend the Mount Pleasant Seventh-day Adventist Church, where I occasionally g
 
 ## "People of the Book" (July 19, 2025)
 
-<iframe width="560" height="315" src="https://www.youtube.com/live/oWMistMWKzA?si=gipDsSudnjhaEQgf&amp;start=7212" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oWMistMWKzA?si=gipDsSudnjhaEQgf&amp;start=7212" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## "Spirit and Power" (May 3, 2025)
 
-<iframe width="560" height="315" src="https://www.youtube.com/live/ZFp5yEEwTQc?si=9jpcLcfGBlOvtn-J&amp;start=8729" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFp5yEEwTQc?si=9jpcLcfGBlOvtn-J&amp;start=8729" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## "Walking in the Light" (January 18, 2025)
 
