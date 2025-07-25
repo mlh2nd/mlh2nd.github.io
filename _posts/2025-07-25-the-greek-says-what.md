@@ -1,7 +1,7 @@
 ---
 layout: post
 author: michael
-title: "The Greek Says Shat? How to Evaluate Claims About the Biblical Languages When You Don't Know Them"
+title: "The Greek Says What? How to Evaluate Claims About the Biblical Languages When You Don't Know Them"
 excerpt: Without investing many hours of time learning to read Greek for yourself, how can you sort out the worthwhile insights from the spurious claims?
 ---
 
