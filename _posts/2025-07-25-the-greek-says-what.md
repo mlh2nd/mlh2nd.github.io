@@ -9,6 +9,9 @@ You're sitting in church. The speaker is preaching passionately from a beloved B
 
 If you know Greek, your immediate reaction is probably to look at the Greek text, whether on your phone or with a physical copy, to check out the claim for yourself. But what if you don't? If you've never had a chance to study the biblical languages—Hebrew, Aramaic, and Greek—how can you evaluate claims other people make about them?
 
+|![Open Greek Bible](/assets/images/Open_Greek_NT.jpg)|
+|A Greek New Testament open to John 9 & 10|
+
 First, there's something you should know: Not everyone who stands behind a pulpit and pontificates about the "true meaning" of the Greek[^1] word behind an English translation has actually read the Greek text, or even can read it. In many cases he or she may, at most, have looked up a definition using a tool like _Strong's Concordance_. It takes a knowledge of how the language works, and the ability to read the text as a whole, to make informed use of a dictionary entry. Many people who cite the original languages don't have that background knowledge.
 
 Even people who have studied Greek can still make mistakes. They are not immune to reading too much into a verb tense or etymology and reaching conclusions far removed from the author's intent.
