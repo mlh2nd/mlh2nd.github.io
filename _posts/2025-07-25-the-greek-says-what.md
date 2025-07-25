@@ -2,7 +2,7 @@
 layout: post
 author: michael
 title: "The Greek Says Shat? How to Evaluate Claims About the Biblical Languages When You Don't Know Them"
-excerpt: You're sitting in church. The speaker is preaching passionately from a beloved Bible passage. You follow along in your Bible as he reads aloud the next verse. He then calls your attention to a particular word in the text and says, "Now what the Greek word here really means is..."\n\nWithout investing many hours of time learning to read Greek for yourself, how can you sort out the worthwhile insights from the spurious claims?
+excerpt: Without investing many hours of time learning to read Greek for yourself, how can you sort out the worthwhile insights from the spurious claims?
 ---
 
 You're sitting in church. The speaker is preaching passionately from a beloved Bible passage. You follow along in your Bible as he reads aloud the next verse. He then calls your attention to a particular word in the text and says, "Now what the Greek word here really means is..."
